@@ -4,7 +4,7 @@
   
 
 
-<p align="left"> <img align="right" alt="Coding" width="250" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif" /></p>
+<p align="left"> <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif" /></p>
 
 
 
