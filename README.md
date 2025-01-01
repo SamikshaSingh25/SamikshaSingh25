@@ -11,7 +11,7 @@
   
 - 🔭 I’m currently working on [CulinaryCrafts](https://github.com/Ishaan282/CulinaryCrafts-food-app)  
   
-- 🌱 I’m currently learning **Redux Toolkit, Advance Data Structures and Algorithms**  
+- 🌱 I’m currently learning **Redux Toolkit and Advance Data Structures and Algorithms**  
   
 - 💬 Ask me about **Mern, Java, C++**  
   
